@@ -108,6 +108,10 @@ p {
   color: #444;
 }
 
+a {
+  color: #6b40a5;
+}
+
 #cv {
   width: 90%;
   max-width: 800px;
