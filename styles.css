@@ -112,6 +112,10 @@ a {
   color: #6b40a5;
 }
 
+.certificate {
+  color: grey;
+}
+
 #cv {
   width: 90%;
   max-width: 800px;
